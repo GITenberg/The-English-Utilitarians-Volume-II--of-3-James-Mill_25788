@@ -1,0 +1,32 @@
+_repo: The-English-Utilitarians-Volume-II--of-3-James-Mill_25788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: ''
+gutenberg_issued: '2008-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, English -- 19th century'
+- !lcsh 'Utilitarianism -- Great Britain -- History'
+- !lcsh 'Philosophy, English -- 18th century'
+- !lcsh 'Philosophers -- England'
+- !lcc 'B'
+- !lcsh 'Mill, James, 1773-1836'
+title: "The English Utilitarians, Volume 2 (of 3)\r\nJames Mill"
+url: http://www.gutenberg.org/ebooks/25788
